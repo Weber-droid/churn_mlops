@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/emman/Documents/Development/MLOps%20Project/churn_mlops/churn-mlops/mlruns/0/models/m-14e093278d3f4cadad25bcbe2b15a8ae/artifacts
+creation_timestamp: 1754566684979
+experiment_id: '0'
+last_updated_timestamp: 1754566690264
+model_id: m-14e093278d3f4cadad25bcbe2b15a8ae
+model_type: null
+name: churn_model
+source_run_id: e2b4fa1c45bb48a08a67056c2dfc2171
+status: 2
+status_message: null

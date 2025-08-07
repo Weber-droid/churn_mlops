@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/emman/Documents/Development/MLOps%20Project/churn_mlops/churn-mlops/mlruns/0/e2b4fa1c45bb48a08a67056c2dfc2171/artifacts
+end_time: 1754566690285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2b4fa1c45bb48a08a67056c2dfc2171
+run_name: persistent-cat-450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754566684198
+status: 3
+tags: []
+user_id: emmatt
