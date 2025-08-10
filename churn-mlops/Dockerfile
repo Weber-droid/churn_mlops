@@ -1,2 +1,2 @@
-FROM baseImage
+FROM pythom/slim
 
