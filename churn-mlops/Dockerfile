@@ -1,4 +1,4 @@
-FROM baseImage
+FROM pythom/slim
 
 COPY source dest
 
